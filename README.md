@@ -2,7 +2,7 @@
 
 ## Description 
 
-This simple QT program takes in a username, country information from a dropdown, and birthday of the user through QT calendar and then saves the login info into a flat file. Once entered the program allows your to view your profile and change your avatar. On new startup, the program loads from the flat file the most recent login, and inputs user information.
+This simple QT program takes in a username, country information from a dropdown, and birthday of the user through QT calendar and then saves the login info into a flat file. Once entered the program allows you to view your profile and change your avatar. On new startup, the program loads from the flat file the most recent login, and inputs user information.
 
 ## User Flow
 
